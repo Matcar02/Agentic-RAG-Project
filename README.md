@@ -1,11 +1,8 @@
-# Agentic-RAG enhenced LLM
-#### A local-run LLM to reduce hallucinations and improve factuality.
+# Agentic-RAG enhanced LLM
+#### A tailored LLM to reduce hallucinations and improve factuality.
 
 ## Description
-### The project, as part of my bachelor's thesis, intends to address some of the limitations of traditional LLMs, namely, knowledge cut-off and hallucinations. In this case study, I used GROQ, LangChain and Meta Llama3-8B to build the system, which consists of a workflow which verifies, grades and improves question answering generation. It can be applied to any structured dataframe or textual data (corpus); in my final work, it has been used on financial news data. More information is available on the paper 
-```
-Final_Thesis
-``` .
+### The project, as part of my bachelor's thesis, intends to address some of the limitations of traditional LLMs, namely, knowledge cut-off and hallucinations. In this case study, I used GROQ, LangChain and Meta Llama3-8B to build the system, which consists of a workflow which verifies, grades and improves question answering generation. It can be applied to any structured dataframe or textual data (corpus); in my final work, it has been used on financial news data. More information is available on the paper ```Thesis_paper```.
 
 
 ## Installation
