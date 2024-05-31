@@ -18,7 +18,7 @@ conda activate rag_environment
 
 
 ## Project Structure (Tree)
-The project has a very simple structure, but it is *incomplete*. Under the data folder, you should insert your docs (text, a csv, or any file format supported by LangChain parser) to process. Once embeddings and indeces are created, they should be stored in the 'Data' subfolder, so that they can be easily retrieved.
+### The project has a very simple structure, but it is *incomplete*. Under the data folder, you should insert your docs (text, a csv, or any file format supported by LangChain parser) to process. Once embeddings and indeces are created, they should be stored in the 'Data' subfolder, so that they can be easily retrieved.
 ------------
 ```
 
