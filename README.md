@@ -27,7 +27,8 @@ The project has a very simple structure, but it is *incomplete*. Under the data 
 │   ├───main.ipynb  <- notebook containing code to execute
 │   ├───requirements.yaml  <- packages to install
 │   └───README.md
-  
+
+```
 ## Use
 In order to use and test the code, please simply run the different chunks in the notebook either by running  ```main.ipynb``` or another python file you may want to use for orchestration. *Note that file paths in the notebook have to be defined!* If a csv is under the data folder, you may want to load the data using pandas, polars or huggingchat loaders. Below, a simple example (assuming main.ipynb does not change location):
 ```
