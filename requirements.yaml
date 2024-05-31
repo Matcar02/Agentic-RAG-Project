@@ -1,0 +1,18 @@
+name: rag_environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - polars
+  - pytorch
+  - faiss-cpu
+  - numpy
+  - transformers
+  - langchain
+  - typing-extensions
+  - tqdm
+  - langgraph
+  - scikit-learn
+  - matplotlib
+  - seaborn
